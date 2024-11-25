@@ -6,3 +6,5 @@
     pip3 install -r requirements.txt
 
     To Run: python app.py
+
+v1.0 
