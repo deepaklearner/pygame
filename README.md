@@ -17,5 +17,5 @@ import example
 Cython Declaration Files: .pxd
 
 Prompt:
-I am new to python. Teach me the flow of execution for pygame library python. 
+I am new to python. Teach me the flow of execution for pygame library python as a novice. 
 So I can start contributing to this library.
